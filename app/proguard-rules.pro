@@ -1,0 +1,2 @@
+-keep class com.messfit.ai.data.** { *; }
+-keep class com.messfit.ai.domain.** { *; }

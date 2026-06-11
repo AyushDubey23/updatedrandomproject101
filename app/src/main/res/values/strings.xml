@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MESSFIT AI</string>
+    <string name="created_by">Created by Ayush Dubey</string>
+    <string name="tagline">India\'s First AI Fitness Coach for Hostel Students</string>
+    <string name="founder_name">Ayush Dubey</string>
+    <string name="founder_title">Founder &amp; Developer of MESSFIT AI</string>
+    <string name="founder_description">MESSFIT AI was built after observing that thousands of Indian hostel students struggle to achieve their fitness goals due to limited food choices, poor nutrition awareness, and budget constraints. The app aims to bridge the gap between hostel mess food and scientific fitness planning.</string>
+</resources>
